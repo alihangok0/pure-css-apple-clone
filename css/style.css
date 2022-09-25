@@ -12,6 +12,11 @@ html, body{
     display: flex;
     justify-content: center;
     background-color: #000000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
 }
 .container .header header{
     font-size: 15px;
@@ -21,6 +26,7 @@ html, body{
     align-content: center;
     justify-content: center;
     align-items: center;
+
 }
 .container .header nav{
     display: flex;
